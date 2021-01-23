@@ -1,3 +1,4 @@
 RESOLUSI
 - Struktur Data
 - Database
+- Membangun forum diskusi
