@@ -1,0 +1,3 @@
+RESOLUSI
+- Struktur Data
+- Database
